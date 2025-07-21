@@ -1,0 +1,26 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #FFFFFF;
+  padding: 10px;
+    width: 1200px;
+}
+
+.map{
+  width: auto;
+  height: 320px;
+  margin-bottom: 50px;
+}
+
+.kpi{
+    width: 40%;
+    display: inline-block;
+    padding: 5px;
+    margin:20px;
+    margin-right: 5px;
+}
+
+fieldset{
+    border-width: 3px;
+    border-radius: 25px;
+    border-color: #000000;
+}
