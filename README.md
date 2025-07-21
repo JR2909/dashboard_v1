@@ -1,4 +1,4 @@
-# V! of a Dashboard programmed in Python
+# V1 of a Dashboard programmed in Python
 ## Requirements:
 - dash
 - geopandas
